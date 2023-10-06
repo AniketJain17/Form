@@ -24,8 +24,6 @@
 
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
-- [📍 Overview](#-overview)
-- [📦 Features](#-features)
 - [📂 Repository Structure](#-repository-structure)
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
@@ -34,24 +32,7 @@
     - [🧪 Tests](#-tests)
 - [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
-
 ---
-
-
-## 📍 Overview
-
-HTTPStatus Exception: 429
-
----
-
-## 📦 Features
-
-HTTPStatus Exception: 429
-
----
-
 
 ## 📂 Repository Structure
 
@@ -145,7 +126,7 @@ npm install
 ### 🤖 Running Form
 
 ```sh
-node app.js
+Start Live Server
 ```
 
 ### 🧪 Tests
@@ -187,16 +168,6 @@ git push origin new-feature-branch
 The project maintainers will review your changes and provide feedback or merge them into the main branch.
 
 ---
-
-## 📄 License
-
-This project is licensed under the `ℹ️  LICENSE-TYPE` License. See the [LICENSE-Type](LICENSE) file for additional info.
-
----
-
-## 👏 Acknowledgments
-
-`- ℹ️ List any resources, contributors, inspiration, etc.`
 
 [↑ Return](#Top)
 
